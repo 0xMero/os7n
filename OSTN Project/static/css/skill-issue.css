@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+img {
+    width: 400px;
+    height: 500px;
+}
+div {
+    margin-left: 50%;
+    transform: translate(-34%);
+}

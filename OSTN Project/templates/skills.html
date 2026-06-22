@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+{% block body %}
+    <form action="/skills" method="post">
+        <label for="skill">Skill</label>
+        <input type="text" name="skill" placeholder="Enter your skill">
+        <input type="submit" value="submit">
+
+    </form>
+{% endblock %}

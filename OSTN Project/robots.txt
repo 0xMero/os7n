@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /skill-issue
+Disallow: /admin
+Disallow: /register
+Disallow: /login
+Disallow: /profile
+Disallow: /skills
